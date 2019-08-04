@@ -1,0 +1,58 @@
+.block-center {
+    margin-left:auto; 
+    margin-right:auto;
+ }
+
+
+ img.block-center {
+ 	margin-left:auto; 
+    margin-right:auto;
+    display: block
+ }
+
+
+    
+/*  Headerline Formatting  */ 
+.headerline {
+	text-align: center;
+	text-shadow: 2px 2px red;
+}
+    
+    
+/* Navigation Bar */
+nav {
+	text-align: center; f
+	ont-weight: bold; 
+	font-size: 24px
+}
+
+
+
+/*  Table  */
+table {
+	text-align: center;
+	border: 1px solid black;
+	border-collapse: collapse;
+
+}
+
+table th {
+	font-weight: bold;
+	border: 1px solid black;
+	padding: 5px;
+	background: lightgray;
+}
+
+table tr {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+table td {
+	text-align: center;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+
+/*  Table Formatting  */
